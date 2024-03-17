@@ -1,0 +1,1 @@
+Non-linear Model Predictive Control using CasADi/IPOPT
